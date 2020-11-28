@@ -18,7 +18,8 @@
 /*background image*/
 
 .background{
-	height: 680px;
+	/*height: 680px;*/
+	height:100%;
 	width: 100%;
 	background-image: url("../img/bg-new.jpg");
 	background-size: cover;
