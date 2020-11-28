@@ -31,8 +31,8 @@ ul{
 /*background image*/
 
 .background{
-	height: 1283px;
-	
+	/*height: 1283px;*/
+	height:100%;
 	width: 100%;
 	background-image: url("../img/content-img.jpg");
 	background-size: cover;
