@@ -28,7 +28,8 @@ ul{
 /*background image*/
 
 .background{
-	height: 1283px;
+	/*height: 1283px;*/
+	height:100%;
 	width: 100%;
 	background-image: url("../img/content-img.jpg");
 	background-size: cover;
@@ -144,7 +145,8 @@ ul{
 	font-family: Verdana;
 	font-size: 12px;
 	color: gray;
-	height: 67px;
+	/*height: 67px;*/
+	height:100%;
 	text-align: center;
 	background-color: white;
 }
